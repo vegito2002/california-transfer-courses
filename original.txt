@@ -1,0 +1,432 @@
+UC Berkeley
+
+  Required Courses for Admission:                
+--------------------------------------------------------------------------------
+CHEM 1A  &  General Chemistry         (3)|CHEM V1A     General Chemistry I   (3)
+CHEM 1AL    General Chemistry         (1)|CHEM V1AL    General Chemistry I   (2)
+            Laboratory                   |             Laboratory 
+--------------------------------------------------------------------------------
+MATH 1A    Calculus                   (4)|MATH V21A    Calculus with         (5)
+                                         |             Analytic Geometry I 
+--------------------------------------------------------------------------------
+MATH 1B    Calculus                   (4)|MATH V21B    Calculus with         (5)
+                                         |             Analytic Geometry II 
+--------------------------------------------------------------------------------
+MATH 53    Multivariable Calculus     (4)|MATH V21C    Multivariable         (5)
+                                         |             Calculus 
+--------------------------------------------------------------------------------
+MATH 54    Linear Algebra and         (4)|MATH V21C &  Multivariable         (5)
+           Differential Equations        |             Calculus 
+                                         |MATH V22  &  Introduction to       (3)
+                                         |             Linear Algebra 
+                                         |MATH V23     Introduction to       (3)
+                                         |             Differential 
+                                         |             Equations 
+--------------------------------------------------------------------------------
+PHYSICS 7A    Physics for Scientists  (4)|PHYS V4  &  Mechanics for          (4)
+              and Engineers              |            Scientists and 
+                                         |            Engineers 
+                                         |PHYS V4L    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYSICS 7B    Physics for Scientists  (4)|PHYS V5  &  Electricity and        (4)
+              and Engineers              |            Magnetism for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYS V5L    Electricity and        (1)
+                                         |            Magnetism Laboratory 
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+ENGLISH R1A    Reading and            (4)|ENGL V1A    English Composition    (4)
+               Composition               |                                      
+--------------------------------------------------------------------------------
+ENGLISH R1B    Reading and            (4)|ENGL V1B    Critical Thinking and  (4)
+               Composition               |            Composition Through 
+                                         |            Literature 
+--------------------------------------------------------------------------------
+         One of the following is required for admission effective Fall 2016:
+--------------------------------------------------------------------------------
+ASTRON 7A    Introduction to          (4)|NO COURSE ARTICULATED 
+             Astrophysics                |                                      
+--------------------------------------------------------------------------------
+ASTRON 7B    Introduction to          (4)|NO COURSE ARTICULATED 
+             Astrophysics                |                                      
+--------------------------------------------------------------------------------
+BIOLOGY 1A  &  General Biology        (3)|BIOL V4    Introduction to Cell    (5)
+               Lecture (Cells,           |           and Molecular Biology 
+               Genetics, Animal Form     |                                      
+               & Function)               |                                      
+BIOLOGY 1AL    General Biology        (2)|                                      
+               Laboratory                |                                      
+--------------------------------------------------------------------------------
+BIOLOGY 1B    General Biology (Plant  (4)|BIOL V3    Introduction to         (5)
+              Form & Function,           |           Organismal Biology and 
+              Ecology, Evolution)        |           Ecology 
+--------------------------------------------------------------------------------
+CHEM 1B    General Chemistry          (4)|CHEM V1B  &  General Chemistry II  (3)
+                                         |CHEM V1BL    General Chemistry II  (2)
+                                         |             Laboratory 
+--------------------------------------------------------------------------------
+CHEM 3A  &  Chemical Structure and    (3)|CHEM V12A  &  General Organic      (3)
+            Reactivity                   |              Chemistry I 
+CHEM 3AL    Organic Chemistry         (2)|CHEM V12AL    General Organic      (2)
+            Laboratory                   |              Chemistry I 
+                                         |              Laboratory 
+--------------------------------------------------------------------------------
+CHEM 3B  &  Chemical Structure and    (3)|CHEM V12B  &  General Organic      (3)
+            Reactivity                   |              Chemistry II 
+CHEM 3BL    Organic Chemistry         (2)|CHEM V12BL    General Organic      (2)
+            Laboratory                   |              Chemistry II 
+                                         |              Laboratory 
+--------------------------------------------------------------------------------
+MCELLBI 32  &  Introduction to Human  (3)|PHSO V1    Introduction to Human   (4)
+               Physiology                |           Physiology 
+MCELLBI 32L    Introduction to Human  (2)|                                      
+               Physiology Laboratory     |                                      
+--------------------------------------------------------------------------------
+PHYSICS 7C    Physics for Scientists  (4)|PHYS V6  &  Optics, Heat, and      (4)
+              and Engineers              |            Modern Physics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYS V6L    Optics, Heat and       (1)
+                                         |            Modern Physics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+STAT 20    Introduction to            (4)|NO COURSE ARTICULATED 
+           Probability and Statistics    |                                      
+    NOTE: STAT 20 at Berkeley has a prerequisite of one semester of calculus.
+Strongly Recommended Courses (if your college offers courses listed below and
+they are articulated, taking them will strengthen your application):
+                                                                                
+If no articulation, students are strongly encouraged to take an introductory
+course in statics, electronics or circuits, engineering graphics and design, 2
+and 3 dimensional drawing, CAD, geometric dimensioning and tolerancing (GD&T)
+and computer programming.
+--------------------------------------------------------------------------------
+ENGIN 7    Introduction to Computer   (4)|NO COURSE ARTICULATED 
+           Programming for Scientists    |                                      
+           and Engineers (MATLAB)        |                                      
+--------------------------------------------------------------------------------
+ENGIN 25    Visualization for Design  (2)|NO COURSE ARTICULATED 
+--------------------------------------------------------------------------------
+ENGIN 26    Three-Dimensional         (2)|NO COURSE ARTICULATED 
+            Modeling for Design          |                                      
+--------------------------------------------------------------------------------
+ENGIN 27    Introduction to           (2)|NO COURSE ARTICULATED 
+            Manufacturing and            |                                      
+            Tolerancing                  |                                      
+--------------------------------------------------------------------------------
+EL ENG 16A    Designing Information   (4)|NO COURSE ARTICULATED 
+              Devices and Systems I      |                                      
+--------------------------------------------------------------------------------
+EL ENG 40    Introduction to          (4)|NO COURSE ARTICULATED 
+             Microelectronic Circuits    |                                      
+--------------------------------------------------------------------------------
+MEC ENG 40    Thermodynamics          (3)|NO COURSE ARTICULATED 
+--------------------------------------------------------------------------------
+MEC ENG C85    Introduction to Solid  (3)|NO COURSE ARTICULATED 
+               Mechanics                 |                                      
+   Same as: CIV ENG C30                  |     
+
+
+
+
+
+
+
+
+UCLA
+
+The following courses are REQUIRED for admission to this major
+--------------------------------------------------------------------------------
+CHEM 20A &  Chemical Structure        (4)|CHEM V1A  &  General Chemistry I   (3)
+CHEM 20L &  General Chemistry         (3)|CHEM V1AL &  General Chemistry I   (2)
+            Laboratory                   |             Laboratory 
+CHEM 20B    Chemical Energetics and   (4)|CHEM V1B     General Chemistry II  (3)
+            Change                       |                                      
+--------------------------------------------------------------------------------
+MATH 31A    Differential and Integral (4)|MATH V21A    Calculus with         (5)
+            Calculus                     |             Analytic Geometry I 
+--------------------------------------------------------------------------------
+MATH 31B    Integration and Infinite  (4)|MATH V21B    Calculus with         (5)
+            Series                       |             Analytic Geometry II 
+--------------------------------------------------------------------------------
+MATH 32A    Calculus of Several       (4)|MATH V21C    Multivariable         (5)
+            Variables                    |             Calculus 
+--------------------------------------------------------------------------------
+MATH 32B    Calculus of Several       (4)|MATH V21C    Multivariable         (5)
+            Variables                    |             Calculus 
+--------------------------------------------------------------------------------
+MATH 33A    Linear Algebra and        (4)|MATH V22    Introduction to Linear (3)
+            Applications                 |            Algebra 
+--------------------------------------------------------------------------------
+MATH 33B    Differential Equations    (4)|MATH V23    Introduction to        (3)
+                                         |            Differential Equations 
+--------------------------------------------------------------------------------
+NOTE: You should complete the entire Physics Series at one community college (or
+at community colleges within the same district where courses are exact
+equivalents).
+PHYSICS 1A  &  Physics for Scientists (5)|PHYS V4  &  Mechanics for          (4)
+               and Engineers:            |            Scientists and 
+               Mechanics                 |            Engineers 
+PHYSICS 4AL    Physics Laboratory for (2)|PHYS V4L    Mechanics Laboratory   (1)
+               Scientists and            |            for Scientists and 
+               Engineers: Mechanics      |            Engineers 
+                   AND                   |                 AND                  
+PHYSICS 1B  &  Physics for Scientists (5)|PHYS V5  &  Electricity and        (4)
+               and Engineers:            |            Magnetism for 
+               Oscillations, Waves,      |            Scientists and 
+               Electric and Magnetic     |            Engineers 
+               Fields                    |                                      
+PHYSICS 4BL &  Physics Laboratory for (2)|PHYS V5L &  Electricity and        (1)
+               Scientists and            |            Magnetism Laboratory 
+               Engineers: Electricity    |            for Scientists and 
+               and Magnetism             |            Engineers 
+PHYSICS 1C     Physics for Scientists (5)|PHYS V6  &  Optics, Heat, and      (4)
+               and Engineers:            |            Modern Physics for 
+               Electrodynamics,          |            Scientists and 
+               Optics, and Special       |            Engineers 
+               Relativity                |                                      
+                                         |PHYS V6L    Optics, Heat and       (1)
+                                         |            Modern Physics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+ENGCOMP 3    English Composition,     (5)|ENGL V1A    English Composition    (4)
+             Rhetoric, and Language      |                                      
+                   AND                   |                 AND                  
+One additional course in English         |ENGL V1B    Critical Thinking and  (4)
+composition                              |            Composition Through 
+                                         |            Literature 
+                                         |   OR 
+                                         |PHIL V5     Critical Thinking and  (3)
+                                         |            Analytic Writing 
+--------------------------------------------------------------------------------
+One course in computer programming: C,   |CS V13    Object-Oriented          (3)
+C++, or Java                             |          Programming 
+                                         |  OR 
+                                         |CS V30    Beginning C++            (3)
+NOTE: Matlab is preferred for this major                                 
+--------------------------------------------------------------------------------
+Listed below are additional degree requirements for this major that are
+strongly recommended and can be met with community college courses:
+--------------------------------------------------------------------------------
+COM SCI 31    Introduction to         (4)|CS V13    Object-Oriented          (3)
+              Computer Science I         |          Programming 
+                   OR                    |                  OR                  
+C&EE M20    Introduction to Computer  (4)|No course articulated 
+            Programming with MATLAB      |                                      
+   Same as: MECH&AE M20                  |                                      
+--------------------------------------------------------------------------------
+MECH&AE 94    Introduction to         (4)|ENGR V2    Engineering Graphics    (3)
+              Computer-Aided Design      |           and Design 
+              and Drafting               |                                      
+--------------------------------------------------------------------------------
+** EL ENGR 100    Electrical and      (4)|ENGR V16    Electronic Circuits    (3)
+                  Electronic Circuits    |            and Devices 
+--------------------------------------------------------------------------------
+** EL ENGR 110L    Circuit            (2)|ENGR V16L    Electronic Circuits   (1)
+                   Measurements          |             and Devices 
+                   Laboratory            |             Laboratory 
+--------------------------------------------------------------------------------
+** MECH&AE 101    Statics and         (4)|No course articulated 
+                  Strength of            |                                      
+                  Materials              |                                      
+--------------------------------------------------------------------------------
+** MECH&AE 102    Dynamics of         (4)|No course articulated 
+                  Particles and Rigid    |                                      
+                  Bodies                 |                                      
+--------------------------------------------------------------------------------
+** MAT SCI 104    Science of          (4)|No course articulated 
+                  Engineering            |                                      
+                  Materials              |                                      
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+
+
+
+UCSD
+MATH 20A    Calculus for Science and  (4)|MATH V21A    Calculus with         (5)
+            Engineering                  |             Analytic Geometry I 
+MATH 20B    Calculus for Science and  (4)|MATH V21B    Calculus with         (5)
+            Engineering                  |             Analytic Geometry II 
+MATH 20C    Calculus and Analytic     (4)|MATH V21C    Multivariable         (5)
+            Geometry for Science and     |             Calculus 
+            Engineering                  |                                      
+MATH 20D    Introduction to           (4)|MATH V23    Introduction to        (3)
+            Differential Equations       |            Differential Equations 
+MATH 18    Linear Algebra             (4)|MATH V22    Introduction to Linear (3)
+                                         |            Algebra 
+MATH 20E    Vector Calculus           (4)|NO COURSE ARTICULATED 
+                                         |College does not offer comparable 
+                                         |course. 
+Note:                                                      
+Students who have taken a vector calculus course at a non-UC college must pass a
+Math 20E Requirement Fulfillment Exam to demonstrate an appropriate level of
+comprehension to satisfy the Math 20E requirement. This is NOT a placement test.
+More information and test dates can be found at the following site:
+http://www.math.ucsd.edu/programs/undergraduate/math_20E_exam/
+                                                                                
+--------------------------------------------------------------------------------
+PHYS 2A    Physics-Mechanics          (4)|PHYS V4    Mechanics for           (4)
+                                         |           Scientists and 
+                                         |           Engineers 
+PHYS 2B    Physics-Electricity and    (4)|PHYS V5    Electricity and         (4)
+           Magnetism                     |           Magnetism for 
+                                         |           Scientists and 
+                                         |           Engineers 
+PHYS 2C    Physics-Fluids, Waves,     (4)|PHYS V6    Optics, Heat, and       (4)
+           Thermodynamics, and Optics    |           Modern Physics for 
+                                         |           Scientists and 
+                                         |           Engineers 
+PHYS 2CL    Physics Laboratory -      (2)|PHYS V5L    Electricity and        (1)
+            Electricity and Magnetism    |            Magnetism Laboratory 
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+MAE 8    MATLAB Programming for       (4)|NO COURSE ARTICULATED 
+         Engineering Analysis            |College has not submitted course for 
+                                         |articulation. 
+--------------------------------------------------------------------------------
+MAE 20    Elements of Materials       (4)|ENGR V18    Engineering Materials  (3)
+          Science                        |                                      
+MAE 3    Introduction to Engineering  (4)|NO COURSE ARTICULATED 
+         Graphics and Design             |Course must be taken at UC San Diego. 
+--------------------------------------------------------------------------------
+CHEM 6A    General Chemistry I        (4)|CHEM V1A    General Chemistry I    (3)
+CHEM 6B    General Chemistry II       (4)|CHEM V1A &  General Chemistry I    (3)
+                                         |CHEM V1B    General Chemistry II   (3)
+--------------------------------------------------------------------------------
+
+
+
+
+
+UCSB
+--------------------------------------------------------------------------------
+                       REQUIRED BASE PREPARATION COURSES                 
+--------------------------------------------------------------------------------
+MATH 3A    Calculus with              (4)|MATH V21A    Calculus with         (5)
+           Applications, First Course    |             Analytic Geometry I 
+--------------------------------------------------------------------------------
+MATH 3B    Calculus with              (4)|MATH V21B    Calculus with         (5)
+           Applications, Second          |             Analytic Geometry II 
+           Course                        |                                      
+--------------------------------------------------------------------------------
+MATH 4A    Linear Algebra with        (4)|MATH V22    Introduction to Linear (3)
+           Applications                  |            Algebra 
+--------------------------------------------------------------------------------
+MATH 4B    Differential Equations     (4)|MATH V23    Introduction to        (3)
+                                         |            Differential Equations 
+--------------------------------------------------------------------------------
+PHYS 1    Basic Physics               (4)|PHYS V4  &  Mechanics for          (4)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYS V4L    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 2    Basic Physics               (4)|PHYS V4  &  Mechanics for          (4)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYS V4L &  Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYS V6  &  Optics, Heat, and      (4)
+                                         |            Modern Physics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYS V6L    Optics, Heat and       (1)
+                                         |            Modern Physics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 3  &  Basic Physics              (3)|PHYS V5  &  Electricity and        (4)
+PHYS 3L    Physics Laboratory         (1)|            Magnetism for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYS V5L    Electricity and        (1)
+                                         |            Magnetism Laboratory 
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+CHEM 1A  &  General Chemistry         (3)|CHEM V1A  &  General Chemistry I   (3)
+CHEM 1AL &  General Chemistry         (2)|CHEM V1AL &  General Chemistry I   (2)
+            Laboratory                   |             Laboratory 
+CHEM 1B  &  General Chemistry         (3)|CHEM V1B  &  General Chemistry II  (3)
+CHEM 1BL    General Chemistry         (2)|CHEM V1BL    General Chemistry II  (2)
+            Laboratory                   |             Laboratory 
+(CHEM 1A/1AL is a "Required Base Preparation Course" and CHEM 1B/1BL is a
+"Strongly Recommended Advanced Preparation course".)
+NOTE: The Advanced Placement (AP) and International Baccalaureate (IB) Chemistry
+exams do not satisfy any part of the General Chemistry series.
+--------------------------------------------------------------------------------
+ENGR 3    Introduction to Programming (3)|ENGR V14    MATLAB: Programming    (3)
+                                         |            and Problem Solving 
+--------------------------------------------------------------------------------
+ME 14    Statics                      (4)|ENGR V12    Engineering Statics    (3)
+--------------------------------------------------------------------------------
+              STRONGLY RECOMMENDED ADVANCED PREPARATION COURSES          
+--------------------------------------------------------------------------------
+MATH 6A    Vector Calculus with       (4)|MATH V21C    Multivariable         (5)
+           Applications, First Course    |             Calculus 
+--------------------------------------------------------------------------------
+MATH 6B    Vector Calculus with       (4)|MATH V21C    Multivariable         (5)
+           Applications, Second          |             Calculus 
+           Course                        |                                      
+--------------------------------------------------------------------------------
+ME 6    Basic Electrical and          (4)|ENGR V16  &  Electronic Circuits   (3)
+        Electronic Circuits              |             and Devices 
+                                         |ENGR V16L    Electronic Circuits   (1)
+                                         |             and Devices 
+                                         |             Laboratory 
+--------------------------------------------------------------------------------
+ME 10    Engineering Graphics:        (4)|ENGR V2    Engineering Graphics    (3)
+         Sketching, CAD, and             |           and Design 
+         Conceptual Design               |                                      
+--------------------------------------------------------------------------------
+ME 15    Strength of Materials        (4)|No course articulated 
+--------------------------------------------------------------------------------
+ME 16    Engineering Mechanics:       (4)|No course articulated 
+         Dynamics                        |                                      
+--------------------------------------------------------------------------------
+CHEM 1A  &  General Chemistry         (3)|CHEM V1A  &  General Chemistry I   (3)
+CHEM 1AL &  General Chemistry         (2)|CHEM V1AL &  General Chemistry I   (2)
+            Laboratory                   |             Laboratory 
+CHEM 1B  &  General Chemistry         (3)|CHEM V1B  &  General Chemistry II  (3)
+CHEM 1BL    General Chemistry         (2)|CHEM V1BL    General Chemistry II  (2)
+            Laboratory                   |             Laboratory 
+(CHEM 1A/1AL is a "Required Base Preparation Course" and CHEM 1B/1BL is a
+"Strongly Recommended Advanced Preparation course".)
+NOTE: The Advanced Placement (AP) and International Baccalaureate (IB) Chemistry
+exams do not satisfy any part of the General Chemistry series.
+--------------------------------------------------------------------------------
+                    ADDITIONAL MAJOR PREPARATION COURSES                 
+--------------------------------------------------------------------------------
+ME 17    Mathematics of Engineering   (3)|No course articulated 
+--------------------------------------------------------------------------------
+PHYS 4  &  Basic Physics              (3)|PHYS V5  &  Electricity and        (4)
+PHYS 4L    Physics Laboratory         (1)|            Magnetism for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYS V5L &  Electricity and        (1)
+                                         |            Magnetism Laboratory 
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYS V6  &  Optics, Heat, and      (4)
+                                         |            Modern Physics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYS V6L    Optics, Heat and       (1)
+                                         |            Modern Physics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
